@@ -30,7 +30,6 @@ git status
 2. codeSmart2307
 3. Chamikara Samarasekara
 4. Yatheesan Chandreswaran
-5. Buddima Liyanagedara
-6. samsara95
+5.Buddima Vijayabandara Liyanagedara
 
 
